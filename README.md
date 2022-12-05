@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/FantoX001">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkvnAyGQhOdFEbgKl15q_hSay8sHcS0yhiY1uV_zAIW14vhec&s" width="800"> </a>
+    <img src="https://telegra.ph/file/b81cfddc613538af66aa9.jpg" width="800"> </a>
     </p>
 
 
