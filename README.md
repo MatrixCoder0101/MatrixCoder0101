@@ -1,3 +1,20 @@
+<p align="center">
+   <a href="https://github.com/FantoX001">
+    <img src="https://telegra.ph/file/b81cfddc613538af66aa9.jpg" width="800"> </a>
+    </p>
+
+
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Goutam+Kumar;Welcome+to+my+GitHub+😊"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Goutam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
