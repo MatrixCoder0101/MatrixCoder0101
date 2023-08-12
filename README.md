@@ -107,5 +107,5 @@ console.log(`My interests include: ${goutam.interesting.join(', ')}.`);
  <br/> 
  <div style="text-align:center"> 
  <a href="#"> 
-   <img src="./wave.svg"></a> 
+   <img src="./Bottom.svg"></a> 
  </div>  
