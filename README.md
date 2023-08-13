@@ -31,7 +31,7 @@
 ------
 # Visitor's
 <p align="center">
-<img align="center" alt="count" src="https://count.getloli.com/get/@: MatrixCoder0101?theme=rule34">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:xxirfanx?theme=rule34">
 </p>
 
  --- 
@@ -45,8 +45,14 @@
 
 ### Github Stats's 🚀
 
-<p align="center"><a href="https://github.com/MatrixCoder0101"><img src="https://github-readme-stats.vercel.app/api?username=MatrixCoder0101&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/MatrixCoder0101"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatrixCoder0101&theme=radical&layout=compact"></a></p> 
+ <p align="center"> 
+   <a href="https://github.com/MatrixCoder0101"><img width="550" src="https://github-readme-stats.vercel.app/api?username=MatrixCoder0101&show_icons=true&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&include_all_commits=true&count_private=true&disable_animations=false&custom_title=GitHub State"></a>
+   
+ </p> 
+ <p align="center"> 
+   <a href="https://github.com/MatrixCoder0101"><img width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatrixCoder0101&layout=compact&show_icons=true&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&langs_count=20&disable_animations=false"></a> 
+ </p> 
+
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=MatrixCoder0101&repo=Fancy-Font-Generator&theme=dark)
@@ -61,14 +67,15 @@ card](https://github-readme-stats.vercel.app/api/pin/?username=MatrixCoder0101&r
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatrixCoder0101&theme=github_dark)
 
 
+
+
 <summary>&#127942 <b>GitHub Activity</b>
 </summary>
 
  ![Metrics](https://metrics.lecoq.io/DarkWinzo?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul) 
   
 
-### About_Me.js
-
+### AboutMe.js
 ```javascript
 function Personal(name, age, hobby) {     
     this.name = name;  
@@ -103,9 +110,14 @@ console.log(`My interests include: ${goutam.interesting.join(', ')}.`);
   <a href="https://github.com/MatrixCoder0101"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   </p>
 
+ <p align="center"> 
+   <a href="https://github.com/MatrixCoder0101"><img width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixCoder0101&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&include_all_commits=true&count_private=true&disable_animations=false"></a> 
+ </p>
 <br/> 
  <br/> 
  <div style="text-align:center"> 
  <a href="#"> 
    <img src="./Bottom.svg"></a> 
  </div>  
+ 
+ 
