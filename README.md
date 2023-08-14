@@ -1,26 +1,25 @@
- <p align="center">
+<p align="center">
   <img src="https://github.com/MatrixCoder0101.png" height=150 />
 </p>
 
 <p align="center">
 <div align="center"> 
- <a href="https://git.io/typing-svg"><img
+<a href="https://git.io/typing-svg"><img
  src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=15ff63&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+Goutam+Kumar;New+Beginning+Developer;Please+Support+Me"
  alt="Typing SVG" /></a>     
- </p>
+</p>
   
   
- <div align="center"> 
+<div align="center"> 
 
   
   
- <h2 align="center"></h2> 
+<h2 align="center"></h2> 
   
   
- <br> 
+<br> 
   
- <p align="center"> 
-   <a href="https://github.com/MatrixCoder0101">    <img  alt="MatrixCoder0101's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MatrixCoder0101?cardType=github&theme=github-dark&preferLogin=true" />  </a> 
+<p align="center"><a href="https://github.com/MatrixCoder0101">    <img  alt="MatrixCoder0101's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MatrixCoder0101?cardType=github&theme=github-dark&preferLogin=true" />  </a> 
 </p>
 
 
@@ -29,15 +28,16 @@
 
 
 ## Visitor's
+
 <p align="center">
 <img align="center" alt="count" src="https://count.getloli.com/get/@: MatrixCoder0101?theme=rule34">
 </p>
 
  
   
- <h3>MatrixCoder's Music Player</h3> 
+<h3>MatrixCoder's Music Player</h3> 
   
- <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" /> 
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" /> 
   
  
 
@@ -51,7 +51,7 @@
 <p align="center"> 
    <a href="https://github.com/MatrixCoder0101"><img width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatrixCoder0101&layout=compact&show_icons=true&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&langs_count=20&disable_animations=true"></a>
    
- </p> 
+</p> 
 
 
 
@@ -72,7 +72,7 @@ card](https://github-readme-stats.vercel.app/api/pin/?username=MatrixCoder0101&r
 <summary>&#127942 <b>GitHub Activity</b>
 </summary>
 
- ![Metrics](https://metrics.lecoq.io/MatrixCoder?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul) 
+ ![Metrics](https://metrics.lecoq.io/MatrixCoder0101?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul) 
   
 
 #### About_Me.js
