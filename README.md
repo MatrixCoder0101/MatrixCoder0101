@@ -27,19 +27,19 @@
 
 
 
-------
+-
 ## Visitor's
 <p align="center">
 <img align="center" alt="count" src="https://count.getloli.com/get/@: MatrixCoder0101?theme=rule34">
 </p>
 
- --- 
+ -
   
  <h3>MatrixCoder's Music Player</h3> 
   
  <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" /> 
   
- --- 
+ -
 
 
 #### Github Stats's 🚀
@@ -105,7 +105,7 @@ console.log(`My interests include: ${goutam.interesting.join(', ')}.`);
    <a href="https://github.com/MatrixCoder0101"><img width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixCoder0101&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&include_all_commits=true&count_private=true&disable_animations=false"></a> 
  </p>
 
-------
+---
 #### Connect with me ☎️
 <p align="center">
   
