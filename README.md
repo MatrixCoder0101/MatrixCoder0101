@@ -27,7 +27,7 @@
 
 
 
-## Visitor's
+#### Visitor's
 
 <p align="center">
 <img align="center" alt="count" src="https://count.getloli.com/get/@: MatrixCoder0101?theme=rule34">
@@ -35,7 +35,7 @@
 
  
   
-<h3>MatrixCoder's Music Player</h3> 
+#### MatrixCoder's Music Player
   
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" /> 
   
