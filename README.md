@@ -27,19 +27,19 @@
 
 
 
--
+
 ## Visitor's
 <p align="center">
 <img align="center" alt="count" src="https://count.getloli.com/get/@: MatrixCoder0101?theme=rule34">
 </p>
 
- -
+ 
   
  <h3>MatrixCoder's Music Player</h3> 
   
  <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" /> 
   
- -
+ 
 
 
 #### Github Stats's 🚀
@@ -72,7 +72,7 @@ card](https://github-readme-stats.vercel.app/api/pin/?username=MatrixCoder0101&r
 <summary>&#127942 <b>GitHub Activity</b>
 </summary>
 
- ![Metrics](https://metrics.lecoq.io/DarkWinzo?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul) 
+ ![Metrics](https://metrics.lecoq.io/MatrixCoder?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul) 
   
 
 #### About_Me.js
@@ -105,7 +105,7 @@ console.log(`My interests include: ${goutam.interesting.join(', ')}.`);
    <a href="https://github.com/MatrixCoder0101"><img width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixCoder0101&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&include_all_commits=true&count_private=true&disable_animations=false"></a> 
  </p>
 
----
+
 #### Connect with me ☎️
 <p align="center">
   
