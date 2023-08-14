@@ -107,4 +107,4 @@ console.log(`My interests include: ${goutam.interesting.join(', ')}.`);
  <div style="text-align:center"> 
  <a href="#"> 
    <img src="./Bottom.svg"></a> 
- </div>  10%
+ </div>  
