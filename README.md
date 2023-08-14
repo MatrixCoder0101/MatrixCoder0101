@@ -46,9 +46,7 @@
 
 <p align="center"><a href="https://github.com/MatrixCoder0101"><img src="https://github-readme-stats.vercel.app/api?username=MatrixCoder0101&show_icons=true&theme=radical"></a></p>
  </p> 
- <p align="center"> 
-   <a href="https://github.com/MatrixCoder0101"><img width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatrixCoder0101&layout=compact&show_icons=true&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&langs_count=20&disable_animations=false"></a> 
- </p> 
+ 
 
 
 
