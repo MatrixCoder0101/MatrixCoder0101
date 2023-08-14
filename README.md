@@ -42,7 +42,7 @@
  --- 
 
 
-## Github Stats's 🚀
+#### Github Stats's 🚀
 
  <p align="center"> 
    <a href="https://github.com/MatrixCoder0101"><img width="550" src="https://github-readme-stats.vercel.app/api?username=MatrixCoder0101&show_icons=true&theme=chartreuse-dark&&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&include_all_commits=true&count_private=true&disable_animations=false&custom_title=GitHub State"></a>
@@ -56,7 +56,7 @@
 
 
 
-## Repo Stats 🔭
+#### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=MatrixCoder0101&repo=Fancy-Font-Generator&theme=dark)
 ![github
 card](https://github-readme-stats.vercel.app/api/pin/?username=MatrixCoder0101&repo=JARVIS&theme=nightowl)
@@ -75,7 +75,7 @@ card](https://github-readme-stats.vercel.app/api/pin/?username=MatrixCoder0101&r
  ![Metrics](https://metrics.lecoq.io/DarkWinzo?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul) 
   
 
-## About_Me.js
+#### About_Me.js
 
 ```javascript
 function Personal(name, age, hobby) {     
@@ -106,7 +106,7 @@ console.log(`My interests include: ${goutam.interesting.join(', ')}.`);
  </p>
 
 ------
-## Connect with me ☎️
+#### Connect with me ☎️
 <p align="center">
   
   <a href="https://wa.me/919938770375"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
